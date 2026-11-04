@@ -1,1 +1,1 @@
-git clone https://github.com/jeeanribeiro/tag-game.git
+gh repo clone jeeanribeiro/tag-game
